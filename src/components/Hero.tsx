@@ -1,5 +1,5 @@
 import React from 'react';
-import capa from '../../dist/assets/capa.jpg';
+import capa from '../assets/capa.jpg';
 
 export default function Hero() {
   return (
@@ -21,7 +21,7 @@ export default function Hero() {
             Viva uma vida ativa e saudável com a AESCULT!
           </h1>
           <p className="text-xl md:text-2xl text-white mb-8">
-            Junte-se ao maior evento esportivo para a terceira idade do Grande ABC
+            Junte-se ao maior evento esportivo para a terceira idade de São Paulo
           </p>
           <div className="space-x-4">
             <a 

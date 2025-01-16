@@ -1,7 +1,7 @@
 import React from 'react';
-import danca from '../../dist/assets/danca1.jpg';
-import GrandPrix from '../../dist/assets/seniorGrandPrix2.jpg';
-import encontro from '../../dist/assets/encontro.jpg';
+import danca from '../assets/danca1.jpg';
+import GrandPrix from '../assets/seniorGrandPrix.jpg';
+import encontro from '../assets/encontro.jpg';
 
 
 const events = [

@@ -1,10 +1,10 @@
 import React from 'react';
-import volei1 from '../../dist/assets/volei1.jpg'
-import capa from '../../dist/assets/capa.jpg'
-import cruzeiro1 from '../../dist/assets/cruzeiro1.jpg'
-import cruzeiro2 from '../../dist/assets/cruzeiro2.jpg'
-import danca2 from '../../dist/assets/danca2.jpg'
-import baralho2 from '../../dist/assets/baralho2.jpg'
+import volei1 from '../assets/volei1.jpg'
+import capa from '../assets/capa.jpg'
+import cruzeiro1 from '../assets/cruzeiro1.jpg'
+import cruzeiro2 from '../assets/cruzeiro2.jpg'
+import danca2 from '../assets/danca2.jpg'
+import baralho2 from '../assets/baralho2.jpg'
 
 const images = [
   volei1, 

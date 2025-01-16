@@ -1,6 +1,6 @@
 import React from 'react';
-import vitoria1 from '../../dist/assets/vitoria.jpg';
-import vitoria2 from '../../dist/assets/baralho.jpg';
+import vitoria1 from '../assets/vitoria1.jpg';
+import vitoria2 from '../assets/baralho.jpg';
 
 export default function About() {
   return (

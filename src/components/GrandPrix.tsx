@@ -2,7 +2,7 @@ import React from 'react';
 import { FaTshirt, FaShoppingBag } from 'react-icons/fa';
 import { FaBottleWater } from "react-icons/fa6";
 import { BsFillBackpackFill } from "react-icons/bs";
-import GrandPrixLogo from '../../dist/assets/GrandPrixLogo.png'
+import GrandPrixLogo from '../Assets/GrandPrixLogo.png'
 
 export default function GrandPrix() {
   return (
