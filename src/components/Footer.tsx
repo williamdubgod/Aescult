@@ -80,7 +80,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} AESCULT. Todos os direitos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} AESCULT. Todos os direitos reservados. Associação Esportiva e Cultural do Grande ABC - CNPJ: 59.345.266/0001-19</p>
         </div>
       </div>
     </footer>
