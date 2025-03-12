@@ -3,22 +3,22 @@ import { Trophy } from 'lucide-react';
 
 const awards = [
   {
-    year: "2023",
+    year: "2025",
     title: "Campeão Grand Prix 50+ Masculino",
-    team: "Equipe Santo André"
+    team: "A definir"
   },
   {
-    year: "2023",
+    year: "2025",
     title: "Campeão Grand Prix 50+ Feminino",
-    team: "Equipe São Caetano"
+    team: "A definir"
   },
   {
-    year: "2023",
+    year: "2025",
     title: "Campeão Grand Prix 60+ Masculino",
-    team: "Equipe São Bernardo"
+    team: "A definir"
   },
   {
-    year: "2023",
+    year: "2025",
     title: "Prêmio Melhor Iniciativa Social",
     team: "AESCULT"
   }
